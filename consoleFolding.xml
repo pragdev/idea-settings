@@ -1,9 +1,0 @@
-<application>
-  <component name="ConsoleFoldingSettings">
-    <option name="addedPositive">
-      <list>
-        <option value="java.net.ConnectException: Connection refused: localhost/127.0.0.1:8100 to http://localhost:8100/write/audit" />
-      </list>
-    </option>
-  </component>
-</application>
