@@ -1,0 +1,10 @@
+<application>
+  <component name="RemoteServers">
+    <remote-server name="Google App Engine" type="gcp-app-engine">
+      <configuration />
+    </remote-server>
+    <remote-server name="Pragdevs" type="google-app-engine">
+      <configuration oauth2="true" email="me@antonioantonelli.it" />
+    </remote-server>
+  </component>
+</application>
