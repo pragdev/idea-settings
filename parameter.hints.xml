@@ -1,0 +1,10 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="Groovy">
+        <added pattern="com.madchampionship.Prototypes.team(name)" />
+        <added pattern="com.madchampionship.Prototypes.player(name)" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>
