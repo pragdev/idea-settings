@@ -4,6 +4,7 @@
       <blacklist language="Groovy">
         <added pattern="com.madchampionship.Prototypes.team(name)" />
         <added pattern="com.madchampionship.Prototypes.player(name)" />
+        <added pattern="com.google.appengine.api.taskqueue.TaskOptions.taskName(taskName)" />
       </blacklist>
     </blacklists>
   </component>
