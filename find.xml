@@ -23,10 +23,13 @@
       <mask>*.css</mask>
       <mask>*.cs</mask>
       <mask>*.c</mask>
-      <mask>*.</mask>
-      <mask>*.s</mask>
       <mask>*.scss</mask>
       <mask>*.scs</mask>
+      <mask>*.yam</mask>
+      <mask>*.ya</mask>
+      <mask>*.y</mask>
+      <mask>*.</mask>
+      <mask>*.s</mask>
       <mask>*.sc</mask>
     </recentFileMasks>
   </component>
