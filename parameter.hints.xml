@@ -9,6 +9,7 @@
         <added pattern="geb.Page.$(selector)" />
         <added pattern="org.codehaus.groovy.runtime.DefaultGroovyStaticMethods.sleep(self,milliseconds)" />
         <added pattern="org.brunocvcunha.instagram4j.Instagram4j.Instagram4jBuilder.username(username)" />
+        <added pattern="ch.qos.logback.classic.gaffer.ConfigurationDelegate.appender(name,clazz,closure)" />
       </blacklist>
     </blacklists>
   </component>
