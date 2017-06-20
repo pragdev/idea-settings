@@ -12,6 +12,8 @@
         <added pattern="ch.qos.logback.classic.gaffer.ConfigurationDelegate.appender(name,clazz,closure)" />
         <added pattern="com.madchampionship.extension.ListExtension.pick(self,nElements)" />
       </blacklist>
+      <blacklist language="Ruby" />
+      <blacklist language="Java" />
     </blacklists>
   </component>
 </application>
