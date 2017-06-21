@@ -5,11 +5,8 @@
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*Module.groovy" />
     <recentFileMasks>
-      <mask>*.json</mask>
-      <mask>*.css</mask>
-      <mask>*.cs</mask>
-      <mask>*.c</mask>
       <mask>*.scss</mask>
       <mask>*.scs</mask>
       <mask>*.yam</mask>
@@ -31,11 +28,15 @@
       <mask>.groo</mask>
       <mask>.groovyv</mask>
       <mask>.groovy</mask>
-      <mask>*.groovy</mask>
       <mask>*Reo.groovy</mask>
       <mask>*Rep.groovy</mask>
       <mask>*Re.groovy</mask>
       <mask>*R.groovy</mask>
+      <mask>*.groovy</mask>
+      <mask>*M.groovy</mask>
+      <mask>*Mod.groovy</mask>
+      <mask>*Modu.groovy</mask>
+      <mask>*Module.groovy</mask>
     </recentFileMasks>
   </component>
 </application>
