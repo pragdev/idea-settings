@@ -5,16 +5,12 @@
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.json" />
     <recentFileMasks>
-      <mask>*.scss</mask>
-      <mask>*.scs</mask>
-      <mask>*.yam</mask>
       <mask>*.ya</mask>
       <mask>*.y</mask>
       <mask>*.sc</mask>
       <mask>*.s</mask>
-      <mask>*.</mask>
-      <mask>*</mask>
       <mask>*R</mask>
       <mask>*Re</mask>
       <mask>*Repo</mask>
@@ -36,6 +32,11 @@
       <mask>*Mod.groovy</mask>
       <mask>*Modu.groovy</mask>
       <mask>*Module.groovy</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.j</mask>
+      <mask>*.jso</mask>
+      <mask>*.json</mask>
     </recentFileMasks>
   </component>
 </application>
