@@ -1,4 +1,7 @@
 <keymap version="1" name="totti" parent="Eclipse">
+  <action id="CheckinProject">
+    <keyboard-shortcut first-keystroke="altGraph c" />
+  </action>
   <action id="CollapseAllRegions">
     <keyboard-shortcut first-keystroke="shift ctrl divide" />
     <keyboard-shortcut first-keystroke="shift ctrl alt minus" />
