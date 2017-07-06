@@ -2,38 +2,42 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="regularExpressions" value="true" />
     <option name="showResultsInSeparateView" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.properties</mask>
-      <mask>*.jsp</mask>
-      <mask>*.java</mask>
-      <mask>*.js</mask>
-      <mask>*.as</mask>
-      <mask>*.mxml</mask>
-      <mask>*application*.*</mask>
-      <mask>*.xml</mask>
-      <mask>*.xm</mask>
-      <mask>*.x</mask>
+      <mask>*.s</mask>
+      <mask>*R</mask>
+      <mask>*Re</mask>
+      <mask>*Repo</mask>
+      <mask>*Repos</mask>
+      <mask>*Reposi</mask>
+      <mask>Reposi</mask>
+      <mask>.</mask>
+      <mask>.gr</mask>
+      <mask>.gro</mask>
+      <mask>.groo</mask>
+      <mask>.groovyv</mask>
+      <mask>.groovy</mask>
+      <mask>*Reo.groovy</mask>
+      <mask>*Rep.groovy</mask>
+      <mask>*Re.groovy</mask>
+      <mask>*R.groovy</mask>
+      <mask>*.groovy</mask>
+      <mask>*M.groovy</mask>
+      <mask>*Mod.groovy</mask>
+      <mask>*Modu.groovy</mask>
+      <mask>*Module.groovy</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
       <mask>*.j</mask>
       <mask>*.jso</mask>
       <mask>*.json</mask>
-      <mask>*.css</mask>
-      <mask>*.cs</mask>
-      <mask>*.c</mask>
-      <mask>*.scss</mask>
-      <mask>*.scs</mask>
-      <mask>*.sc</mask>
-      <mask>*.s</mask>
-      <mask>*.ts</mask>
-      <mask>*.t</mask>
-      <mask>*.htm</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.h</mask>
-      <mask>*.ht</mask>
       <mask>*.html</mask>
+      <mask>*.ts</mask>
     </recentFileMasks>
   </component>
 </application>

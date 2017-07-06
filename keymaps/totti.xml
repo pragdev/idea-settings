@@ -1,4 +1,11 @@
 <keymap version="1" name="totti" parent="Eclipse">
+  <action id="CheckinProject">
+    <keyboard-shortcut first-keystroke="altGraph c" />
+  </action>
+  <action id="CollapseAllRegions">
+    <keyboard-shortcut first-keystroke="shift ctrl divide" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt minus" />
+  </action>
   <action id="CommentByLineComment">
     <keyboard-shortcut first-keystroke="ctrl slash" />
     <keyboard-shortcut first-keystroke="ctrl divide" />
@@ -10,6 +17,14 @@
   </action>
   <action id="EditorIncreaseFontSize">
     <mouse-shortcut keystroke="control button143" />
+  </action>
+  <action id="ExpandAllRegions">
+    <keyboard-shortcut first-keystroke="ctrl multiply" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt plus" />
+  </action>
+  <action id="ExpandRegion">
+    <keyboard-shortcut first-keystroke="ctrl add" />
+    <keyboard-shortcut first-keystroke="ctrl alt plus" />
   </action>
   <action id="FileChooser.TogglePathShowing" />
   <action id="GotoTest">
@@ -39,4 +54,8 @@
     <keyboard-shortcut first-keystroke="shift alt up" />
   </action>
   <action id="ToggleBookmark7" />
+  <action id="javaee.UpdateRunningApplication">
+    <keyboard-shortcut first-keystroke="ctrl f10" />
+    <keyboard-shortcut first-keystroke="altGraph u" />
+  </action>
 </keymap>

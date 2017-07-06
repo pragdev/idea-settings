@@ -6,7 +6,14 @@
         <added pattern="com.madchampionship.Prototypes.player(name)" />
         <added pattern="com.google.appengine.api.taskqueue.TaskOptions.taskName(taskName)" />
         <added pattern="com.google.appengine.api.taskqueue.Queue.deleteTask(s)" />
+        <added pattern="geb.Page.$(selector)" />
+        <added pattern="org.codehaus.groovy.runtime.DefaultGroovyStaticMethods.sleep(self,milliseconds)" />
+        <added pattern="org.brunocvcunha.instagram4j.Instagram4j.Instagram4jBuilder.username(username)" />
+        <added pattern="ch.qos.logback.classic.gaffer.ConfigurationDelegate.appender(name,clazz,closure)" />
+        <added pattern="com.madchampionship.extension.ListExtension.pick(self,nElements)" />
       </blacklist>
+      <blacklist language="Ruby" />
+      <blacklist language="Java" />
     </blacklists>
   </component>
 </application>
