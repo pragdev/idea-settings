@@ -2,10 +2,16 @@
   <component name="DuplocatorSettings">
     <option name="SELECTED_PROFILES">
       <set>
-        <option value="HTML" />
-        <option value="TypeScript" />
+        <option value="Groovy" />
       </set>
     </option>
-    <option name="LAST_SELECTED_LANGUAGE" value="JavaScript" />
+    <option name="LAST_SELECTED_LANGUAGE" value="Groovy" />
+  </component>
+  <component name="MultiLanguageDuplocatorSettings">
+    <object language="Groovy">
+      <option name="DISTINGUISH_FUNCTIONS" value="false" />
+      <option name="DISTINGUISH_LITERALS" value="false" />
+      <option name="LOWER_BOUND" value="12" />
+    </object>
   </component>
 </application>
