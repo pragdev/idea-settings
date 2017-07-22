@@ -5,9 +5,8 @@
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.ts" />
     <recentFileMasks>
-      <mask>*Repo</mask>
-      <mask>*Repos</mask>
       <mask>*Reposi</mask>
       <mask>Reposi</mask>
       <mask>.</mask>
@@ -29,13 +28,15 @@
       <mask>*.j</mask>
       <mask>*.jso</mask>
       <mask>*.json</mask>
-      <mask>*.ts</mask>
       <mask>*.t</mask>
-      <mask>*.</mask>
       <mask>*.ya</mask>
       <mask>*.yaml</mask>
-      <mask>*.h</mask>
       <mask>*.html</mask>
+      <mask>*.htm</mask>
+      <mask>*.ht</mask>
+      <mask>*.h</mask>
+      <mask>*.</mask>
+      <mask>*.ts</mask>
     </recentFileMasks>
   </component>
 </application>
