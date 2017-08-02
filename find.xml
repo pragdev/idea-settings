@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.ts" />
     <recentFileMasks>
       <mask>*.groovy</mask>
       <mask>*M.groovy</mask>
@@ -20,7 +21,6 @@
       <mask>*.ht</mask>
       <mask>*.h</mask>
       <mask>*.</mask>
-      <mask>*.ts</mask>
       <mask>R</mask>
       <mask>Re</mask>
       <mask>Rep</mask>
@@ -34,6 +34,7 @@
       <mask>*Repoé</mask>
       <mask>*Repo</mask>
       <mask>*Repo*</mask>
+      <mask>*.ts</mask>
     </recentFileMasks>
   </component>
 </application>
