@@ -2,28 +2,19 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="localWholeWordsOnly" value="true" />
-    <option name="wholeWordsOnly" value="true" />
-    <option name="WHOLE_WORDS_ONLY" value="true" />
-    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.groovy</mask>
-      <mask>*M.groovy</mask>
-      <mask>*Mod.groovy</mask>
       <mask>*Modu.groovy</mask>
       <mask>*Module.groovy</mask>
       <mask>*.j</mask>
       <mask>*.jso</mask>
       <mask>*.json</mask>
-      <mask>*.t</mask>
       <mask>*.ya</mask>
       <mask>*.yaml</mask>
       <mask>*.html</mask>
       <mask>*.htm</mask>
       <mask>*.ht</mask>
       <mask>*.h</mask>
-      <mask>*.</mask>
       <mask>R</mask>
       <mask>Re</mask>
       <mask>Rep</mask>
@@ -38,6 +29,11 @@
       <mask>*Repo</mask>
       <mask>*Repo*</mask>
       <mask>*.ts</mask>
+      <mask>*.t</mask>
+      <mask>*.</mask>
+      <mask>*.gra</mask>
+      <mask>*.gradl</mask>
+      <mask>*.gradle</mask>
     </recentFileMasks>
   </component>
 </application>
