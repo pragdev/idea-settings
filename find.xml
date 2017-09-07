@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'madchampionship-bundle'" />
-    <option name="defaultScopeName" value="Project 'madchampionship-bundle'" />
-    <option name="SEARCH_SCOPE" value="Project 'madchampionship-bundle'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
       <mask>*Modu.groovy</mask>
       <mask>*Module.groovy</mask>
