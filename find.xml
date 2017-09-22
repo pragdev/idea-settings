@@ -2,8 +2,6 @@
   <component name="FindSettings">
     <option name="customScope" value="File '[madchampionship_main] - .../madchampionship/src/main/groovy/com/madchampionship/Federation.groovy'" />
     <option name="defaultScopeName" value="File '[madchampionship_main] - .../madchampionship/src/main/groovy/com/madchampionship/Federation.groovy'" />
-    <option name="localWholeWordsOnly" value="true" />
-    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="File '[madchampionship_main] - .../madchampionship/src/main/groovy/com/madchampionship/Federation.groovy'" />
     <recentFileMasks>
       <mask>*Modu.groovy</mask>
