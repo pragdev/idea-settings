@@ -3,10 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.groovy" />
     <recentFileMasks>
-      <mask>*Modu.groovy</mask>
-      <mask>*Module.groovy</mask>
-      <mask>*.j</mask>
       <mask>*.jso</mask>
       <mask>*.json</mask>
       <mask>*.ya</mask>
@@ -34,6 +32,9 @@
       <mask>*.gra</mask>
       <mask>*.gradl</mask>
       <mask>*.gradle</mask>
+      <mask>*.groo</mask>
+      <mask>*.groov</mask>
+      <mask>*.groovy</mask>
     </recentFileMasks>
   </component>
 </application>
