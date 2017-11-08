@@ -3,9 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.ts" />
+    <option name="FILE_MASK" value="*.gro" />
     <recentFileMasks>
-      <mask>*.jso</mask>
       <mask>*.json</mask>
       <mask>*.ya</mask>
       <mask>*.yaml</mask>
@@ -26,8 +25,6 @@
       <mask>*Repoé</mask>
       <mask>*Repo</mask>
       <mask>*Repo*</mask>
-      <mask>*.t</mask>
-      <mask>*.</mask>
       <mask>*.gra</mask>
       <mask>*.gradl</mask>
       <mask>*.gradle</mask>
@@ -35,6 +32,9 @@
       <mask>*.groov</mask>
       <mask>*.groovy</mask>
       <mask>*.ts</mask>
+      <mask>*.t</mask>
+      <mask>*.</mask>
+      <mask>*.gro</mask>
     </recentFileMasks>
   </component>
 </application>
