@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*Spec*.groovy" />
+    <option name="FILE_MASK" value="*.ts" />
     <recentFileMasks>
       <mask>*.htm</mask>
       <mask>*.ht</mask>
@@ -24,9 +24,6 @@
       <mask>*.gra</mask>
       <mask>*.gradl</mask>
       <mask>*.gradle</mask>
-      <mask>*.ts</mask>
-      <mask>*.t</mask>
-      <mask>*.</mask>
       <mask>*.gro</mask>
       <mask>*.groo</mask>
       <mask>*.groov</mask>
@@ -35,6 +32,9 @@
       <mask>*S*.groovy</mask>
       <mask>*Spe*.groovy</mask>
       <mask>*Spec*.groovy</mask>
+      <mask>*.</mask>
+      <mask>*.t</mask>
+      <mask>*.ts</mask>
     </recentFileMasks>
   </component>
 </application>
