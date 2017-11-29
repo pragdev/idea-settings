@@ -3,8 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.groo" />
     <recentFileMasks>
-      <mask>*.ht</mask>
       <mask>R</mask>
       <mask>Re</mask>
       <mask>Rep</mask>
@@ -21,19 +21,20 @@
       <mask>*.gra</mask>
       <mask>*.gradl</mask>
       <mask>*.gradle</mask>
-      <mask>*.gro</mask>
-      <mask>*.groo</mask>
       <mask>*.groov</mask>
       <mask>*.groovy</mask>
       <mask>**.groovy</mask>
       <mask>*S*.groovy</mask>
       <mask>*Spe*.groovy</mask>
       <mask>*Spec*.groovy</mask>
-      <mask>*.</mask>
       <mask>*.t</mask>
       <mask>*.ts</mask>
-      <mask>*.h</mask>
       <mask>*.html</mask>
+      <mask>*.htm</mask>
+      <mask>*.h</mask>
+      <mask>*.</mask>
+      <mask>*.gro</mask>
+      <mask>*.groo</mask>
     </recentFileMasks>
   </component>
 </application>
