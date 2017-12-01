@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../src/main/groovy/Application.groovy [preferences-prototype_main]'" />
-    <option name="defaultScopeName" value="File '.../src/main/groovy/Application.groovy [preferences-prototype_main]'" />
-    <option name="SEARCH_SCOPE" value="File '.../src/main/groovy/Application.groovy [preferences-prototype_main]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.gradle" />
     <recentFileMasks>
-      <mask>R</mask>
       <mask>Re</mask>
       <mask>Rep</mask>
       <mask>Repo</mask>
@@ -17,9 +17,7 @@
       <mask>*Repoé</mask>
       <mask>*Repo</mask>
       <mask>*Repo*</mask>
-      <mask>*.gra</mask>
       <mask>*.gradl</mask>
-      <mask>*.gradle</mask>
       <mask>**.groovy</mask>
       <mask>*S*.groovy</mask>
       <mask>*Spe*.groovy</mask>
@@ -34,6 +32,9 @@
       <mask>*.groo</mask>
       <mask>*.groov</mask>
       <mask>*.groovy</mask>
+      <mask>*.gra</mask>
+      <mask>*.grad</mask>
+      <mask>*.gradle</mask>
     </recentFileMasks>
   </component>
 </application>
