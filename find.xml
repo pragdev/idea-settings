@@ -4,18 +4,6 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*Modu.groovy</mask>
-      <mask>*Module.groovy</mask>
-      <mask>*.j</mask>
-      <mask>*.jso</mask>
-      <mask>*.json</mask>
-      <mask>*.ya</mask>
-      <mask>*.yaml</mask>
-      <mask>*.html</mask>
-      <mask>*.htm</mask>
-      <mask>*.ht</mask>
-      <mask>*.h</mask>
-      <mask>R</mask>
       <mask>Re</mask>
       <mask>Rep</mask>
       <mask>Repo</mask>
@@ -28,11 +16,23 @@
       <mask>*Repoé</mask>
       <mask>*Repo</mask>
       <mask>*Repo*</mask>
-      <mask>*.ts</mask>
-      <mask>*.t</mask>
-      <mask>*.</mask>
-      <mask>*.gra</mask>
       <mask>*.gradl</mask>
+      <mask>**.groovy</mask>
+      <mask>*S*.groovy</mask>
+      <mask>*Spe*.groovy</mask>
+      <mask>*Spec*.groovy</mask>
+      <mask>*.t</mask>
+      <mask>*.ts</mask>
+      <mask>*.html</mask>
+      <mask>*.htm</mask>
+      <mask>*.h</mask>
+      <mask>*.</mask>
+      <mask>*.gro</mask>
+      <mask>*.groo</mask>
+      <mask>*.groov</mask>
+      <mask>*.groovy</mask>
+      <mask>*.gra</mask>
+      <mask>*.grad</mask>
       <mask>*.gradle</mask>
     </recentFileMasks>
   </component>

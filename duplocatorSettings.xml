@@ -11,7 +11,6 @@
     <object language="Groovy">
       <option name="DISTINGUISH_FUNCTIONS" value="false" />
       <option name="DISTINGUISH_LITERALS" value="false" />
-      <option name="LOWER_BOUND" value="12" />
     </object>
   </component>
 </application>
