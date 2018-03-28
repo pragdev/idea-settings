@@ -6,6 +6,7 @@
       <mapping pattern="asd" type="PLAIN_TEXT" />
       <mapping pattern="tes" type="PLAIN_TEXT" />
       <mapping pattern="MetricSets" type="PLAIN_TEXT" />
+      <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping pattern="xxx" type="PLAIN_TEXT" />
       <mapping pattern=".ember-cli" type="PLAIN_TEXT" />
       <mapping pattern="y" type="PLAIN_TEXT" />
