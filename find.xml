@@ -2,38 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="localRegularExpressions" value="true" />
+    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <recentFileMasks>
-      <mask>Re</mask>
-      <mask>Rep</mask>
-      <mask>Repo</mask>
-      <mask>Repos</mask>
-      <mask>Reposi</mask>
-      <mask>*</mask>
-      <mask>*Reo</mask>
-      <mask>*Re</mask>
-      <mask>*Rep</mask>
-      <mask>*Repoé</mask>
-      <mask>*Repo</mask>
-      <mask>*Repo*</mask>
-      <mask>*.gradl</mask>
-      <mask>**.groovy</mask>
-      <mask>*S*.groovy</mask>
-      <mask>*Spe*.groovy</mask>
-      <mask>*Spec*.groovy</mask>
-      <mask>*.t</mask>
-      <mask>*.ts</mask>
-      <mask>*.html</mask>
-      <mask>*.htm</mask>
-      <mask>*.h</mask>
-      <mask>*.</mask>
-      <mask>*.gro</mask>
-      <mask>*.groo</mask>
-      <mask>*.groov</mask>
-      <mask>*.groovy</mask>
-      <mask>*.gra</mask>
-      <mask>*.grad</mask>
-      <mask>*.gradle</mask>
-    </recentFileMasks>
   </component>
 </application>
