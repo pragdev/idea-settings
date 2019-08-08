@@ -7,19 +7,19 @@
       <mapping pattern="y" type="PLAIN_TEXT" />
       <mapping pattern="tes" type="PLAIN_TEXT" />
       <mapping pattern="easd" type="PLAIN_TEXT" />
-      <mapping pattern="aksjdh" type="PLAIN_TEXT" />
       <mapping pattern="asd" type="PLAIN_TEXT" />
       <mapping pattern="xxx" type="PLAIN_TEXT" />
       <mapping pattern="MetricSets" type="PLAIN_TEXT" />
+      <mapping pattern="aksjdh" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping pattern="x" type="PLAIN_TEXT" />
       <mapping ext="out" type="PLAIN_TEXT" />
       <mapping ext="instructions" type="PLAIN_TEXT" />
       <mapping ext="eot" type="PLAIN_TEXT" />
-      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".ember-cli" approved="true" type="PLAIN_TEXT" />
