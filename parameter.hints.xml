@@ -1,6 +1,7 @@
 <application>
   <component name="ParameterNameHintsSettings">
     <blacklists>
+      <blacklist language="Java" />
       <blacklist language="Groovy">
         <added pattern="com.madchampionship.Prototypes.team(name)" />
         <added pattern="com.madchampionship.Prototypes.player(name)" />
@@ -13,7 +14,14 @@
         <added pattern="com.madchampionship.extension.ListExtension.pick(self,nElements)" />
       </blacklist>
       <blacklist language="Ruby" />
-      <blacklist language="Java" />
     </blacklists>
+    <disabledLanguages>
+      <language id="JAVA" />
+      <language id="TypeScript" />
+      <language id="Angular2Html" />
+      <language id="JavaScript" />
+      <language id="Groovy" />
+      <language id="SQL" />
+    </disabledLanguages>
   </component>
 </application>
